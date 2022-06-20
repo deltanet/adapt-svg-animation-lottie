@@ -1,4 +1,4 @@
-# SVG Animation (Lottie)
+# svgAnimationLottie
 
 **SVG Animation (Lottie)** is a *presentational component* that renders Lottie animations exported from Adobe After Effect using the Bodymovin plugin.
 
@@ -6,7 +6,7 @@ Uses v5.7.6 of Lottie.
 
 ## Settings Overview
 
-The attributes listed below are used in *components.json* to configure **Adapt SVG**, and are properly formatted as JSON in [*example.json*](https://github.com/deltanet/adapt-svg-animation-lottie/blob/master/example.json).
+The attributes listed below are used in *components.json* to configure **Adapt SVG**, and are properly formatted as JSON in [*example.json*](https://github.com/deltanet/adapt-svgAnimationLottie/blob/master/example.json).
 
 ### Attributes
 
