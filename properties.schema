@@ -55,7 +55,7 @@
     "_animation": {
       "type":"object",
       "required": true,
-      "title": "Lottie Animation",
+      "title": "SVG Animation (Lottie)",
       "properties":{
         "_src": {
           "type":"string",

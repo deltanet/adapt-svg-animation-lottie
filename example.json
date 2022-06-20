@@ -2,7 +2,7 @@
         "_id": "c-15",
         "_parentId": "b-10",
         "_type": "component",
-        "_component": "svg",
+        "_component": "svg-animation-lottie",
         "_classes": "",
         "_layout": "full",
         "title": "",
