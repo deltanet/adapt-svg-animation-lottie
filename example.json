@@ -2,7 +2,7 @@
         "_id": "c-15",
         "_parentId": "b-10",
         "_type": "component",
-        "_component": "svgAnimationLottie",
+        "_component": "svg",
         "_classes": "",
         "_layout": "full",
         "title": "",

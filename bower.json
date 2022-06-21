@@ -4,7 +4,7 @@
   "framework": ">=5.8",
   "homepage": "https://github.com/deltanet/adapt-svgAnimationLottie",
   "issues": "https://github.com/deltanet/adapt-svgAnimationLottie/issues",
-  "component" : "svgAnimationLottie",
+  "component" : "svg",
   "displayName" : "SVG Animation (Lottie)",
   "description": "An svg-based animation exported from Adobe After Effects using the Bodymovin plugin",
   "main": "/js/adapt-svg.js",
